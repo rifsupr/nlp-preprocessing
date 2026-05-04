@@ -37,7 +37,7 @@ Untuk menginstall semua *dependencies*, Anda dapat menjalankan perintah berikut:
 ```bash
 pip install pandas numpy nltk sastrawi scikit-learn
 ```
-## 📊 Penjelasan Dataset
+## Penjelasan Dataset
 
 ### Nama Dataset
 **"Multi-label Hate Speech and Abusive Language Detection in Indonesian Twitter"**
@@ -67,7 +67,7 @@ Dataset pendukung lainnya yang disediakan oleh peneliti di folder ini antara lai
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. Pastikan Anda berada di dalam direktori project `preprocessing`.
 2. Jika ada, jalankan perintah instalasi dari requirements:
@@ -81,7 +81,7 @@ Dataset pendukung lainnya yang disediakan oleh peneliti di folder ini antara lai
    ```
 4. Tunggu hingga proses *stemming* selesai. Hasil akhir teks yang telah diproses akan disimpan dalam file `datasets/clean_data.csv`.
 
-## 📁 Struktur Project
+## Struktur Project
 
 ```text
 preprocessing/
